@@ -6,6 +6,20 @@ This project includes three main scripts for processing EEG data and analyzing a
 - **`process_madeeg.py`**: Processes EEG data from the MAD-EEG dataset, integrates behavioral and musical features, and generates a comprehensive CSV file with attention labels. 
 - **`process_physionet.py`**: Processes PhysioNet EEG data recorded during mental arithmetic tasks, extracts features, and trains a predictive model for attention and performance quality. Creates visualizations and pkl files for the machine learning models.
 
+This project also includes a script for an attention decoder based on the MAD EEG paper's attention decoder to attended instrument vs unattended instrument. 
+
+- **`music_attention_decoder.py`**: 
+The `MusicAttentionDecoder` class implements a backward temporal response function model to predict and evaluate listeners' attention toward attended versus unattended musical instruments using EEG data and extracted audio features.
+
+
+## Datasets used:
+
+PhysioNet's "EEG During Mental Arithmetic Tasks"
+
+“MAD-EEG: an EEG dataset for decoding auditory attention to a target instrument in polyphonic music”.  Link to Dataset
+
+
+
 To use this program, clone the repository. Navigate to project directory. 
 
 Install the required packages:
