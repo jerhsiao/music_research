@@ -12,16 +12,34 @@ import mne
 import ast
 import re
 from tqdm import tqdm
+
+# Expected columns from user's specification
+EXPECTED_COLUMNS = [
+    'F1_Delta','F2_Delta','F3_Delta','F4_Delta',
+    'F1_Theta','F2_Theta','F3_Theta','F4_Theta',
+    'F1_Alpha','F2_Alpha','F3_Alpha','F4_Alpha',
+    'F1_Beta','F2_Beta','F3_Beta','F4_Beta',
+    'Frontal_Alpha_Asymmetry',
+    'F1_Activity','F1_Mobility','F1_Complexity',
+    'F2_Activity','F2_Mobility','F2_Complexity',
+    'F3_Activity','F3_Mobility','F3_Complexity',
+    'F4_Activity','F4_Mobility','F4_Complexity',
+    'Subject','Stimulus','Genre','Song','Ensemble','Instruments','Theme','Spatial','Target_Instrument',
+    'Tempo','Key','Spectral_Centroid','Spectral_Bandwidth','Spectral_Contrast','Spectral_Rolloff',
+    'MFCC_1_Mean','MFCC_1_Std','MFCC_2_Mean','MFCC_2_Std','MFCC_3_Mean','MFCC_3_Std','MFCC_4_Mean','MFCC_4_Std','MFCC_5_Mean','MFCC_5_Std','MFCC_6_Mean','MFCC_6_Std',
+    'MFCC_7_Mean','MFCC_7_Std','MFCC_8_Mean','MFCC_8_Std','MFCC_9_Mean','MFCC_9_Std','MFCC_10_Mean','MFCC_10_Std','MFCC_11_Mean','MFCC_11_Std','MFCC_12_Mean','MFCC_12_Std','MFCC_13_Mean','MFCC_13_Std',
+    'Chroma_0','Chroma_1','Chroma_2','Chroma_3','Chroma_4','Chroma_5','Chroma_6','Chroma_7','Chroma_8','Chroma_9','Chroma_10','Chroma_11',
+    'Attention_Label'
+]
+
 from mne import time_frequency
 
-# Paths
 HDF5_PATH = 'datasets/madeeg_preprocessed.hdf5'
 YAML_PATH = 'datasets/madeeg_preprocessed.yaml'
 BEHAVIORAL_DATA_PATH = 'datasets/behavioural_data.xlsx'
 OUTPUT_CSV = 'outputs/csv/madeeg_features_dataset.csv'
 os.makedirs(os.path.dirname(OUTPUT_CSV), exist_ok=True)
 
-# Logging
 LOG_DIR = "outputs/logs"
 os.makedirs(LOG_DIR, exist_ok=True)
 logging.basicConfig(
@@ -138,27 +156,31 @@ def extract_madeeg_features(subject_id, stimulus_name, data, metadata, selected_
 
     psds, freqs = raw.compute_psd(method='welch', fmin=1.0, fmax=40.0, n_fft=256, verbose=False).get_data(return_freqs=True)
 
-    features = {}
+    # Initialize all expected columns with NaN
+    features = {col: np.nan for col in EXPECTED_COLUMNS}
+
+    # Fill in EEG band power features
     for band_name, (fmin, fmax) in freq_bands.items():
         freq_mask = (freqs>=fmin)&(freqs<=fmax)
-        if not np.any(freq_mask):
-            continue
-        band_power = psds[:, freq_mask].mean(axis=1)
-        for ch_idx, ch_name in enumerate(available_channels):
-            features[f"{ch_name}_{band_name}"] = band_power[ch_idx]
+        if np.any(freq_mask):
+            band_power = psds[:, freq_mask].mean(axis=1)
+            for i, ch_name in enumerate(available_channels):
+                features[f"{ch_name}_{band_name}"] = band_power[i]
 
-    if 'F1' in available_channels and 'F2' in available_channels:
-        features['Frontal_Alpha_Asymmetry'] = compute_frontal_alpha_asymmetry(features)
-    else:
-        features['Frontal_Alpha_Asymmetry'] = np.nan
+    # Frontal Alpha Asymmetry
+    features['Frontal_Alpha_Asymmetry'] = compute_frontal_alpha_asymmetry(features)
 
+    # Hjorth parameters
     raw_data = raw.get_data()
     hjorth_features = compute_hjorth_parameters(raw_data, available_channels)
-    features.update(hjorth_features)
+    for k,v in hjorth_features.items():
+        features[k] = v
 
+    # Subject/Stimulus info
     features['Subject'] = subject_id
     features['Stimulus'] = norm_name
 
+    # Metadata from YAML
     stim_metadata = metadata[subject_id][norm_name]
     features['Genre'] = stim_metadata.get('genre', 'Unknown')
     features['Song'] = stim_metadata.get('song', 'Unknown')
@@ -168,6 +190,7 @@ def extract_madeeg_features(subject_id, stimulus_name, data, metadata, selected_
     features['Spatial'] = stim_metadata.get('spatial', 'Unknown')
     features['Target_Instrument'] = stim_metadata.get('target', 'Unknown')
 
+    # Stimuli features
     if norm_name in stimuli_features_dict:
         stimuli_feat = stimuli_features_dict[norm_name]
         features['Tempo'] = stimuli_feat.get('tempo', np.nan)
@@ -181,16 +204,9 @@ def extract_madeeg_features(subject_id, stimulus_name, data, metadata, selected_
             features[f'MFCC_{i}_Std'] = stimuli_feat.get(f'mfcc_{i}_std', np.nan)
         for i in range(12):
             features[f'Chroma_{i}'] = stimuli_feat.get(f'chroma_{i}', np.nan)
-    else:
-        logger.info(f"    No stimulus features for {norm_name}")
 
     concentration_level = behavioral_dict.get(subject_id, {}).get(norm_name, np.nan)
-    if pd.isna(concentration_level):
-        logger.warning(f"    No concentration level for {norm_name}, {subject_id}.")
-    else:
-        logger.info(f"    Concentration_Level: {concentration_level} for {norm_name}")
-
-    features['Attention_Label'] = 'High Attention' if concentration_level >= 4.0 else 'Low Attention'
+    features['Attention_Label'] = 'High Attention' if not pd.isna(concentration_level) and concentration_level >= 4.0 else 'Low Attention'
 
     features_df = pd.DataFrame([features])
     logger.info(f"    Extracted features for {subject_id}, {norm_name}")
@@ -339,17 +355,7 @@ def main():
         logger.info("\nSample data after concatenation:")
         logger.info(final_df.head())
 
-        columns_to_drop = ['Label']
-        X = final_df.drop(columns=columns_to_drop, errors='ignore')
-        X = X.apply(pd.to_numeric, errors='coerce')
-        y = final_df['Attention_Label']
-
-        logger.info("\nSample data after final separation:")
-        logger.info(X.head())
-        logger.info(y.head())
-
-        final_processed = X.copy()
-        final_processed['Attention_Label'] = y
+        final_processed = final_df.copy()
         final_processed.to_csv(OUTPUT_CSV, index=False)
         logger.info(f"Saved extracted features to {OUTPUT_CSV}")
     else:
