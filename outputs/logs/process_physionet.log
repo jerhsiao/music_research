@@ -1,0 +1,957 @@
+2024-10-24 14:01:22,207 - INFO - Found 72 EDF files in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/
+2024-10-24 14:01:23,210 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject20_1.edf
+2024-10-24 14:01:23,214 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject20_1.edf: No channels match the selection.
+2024-10-24 14:01:23,214 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject20_1.edf
+2024-10-24 14:01:23,224 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject06_2.edf
+2024-10-24 14:01:23,224 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject06_2.edf: No channels match the selection.
+2024-10-24 14:01:23,224 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject06_2.edf
+2024-10-24 14:01:23,235 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject04_1.edf
+2024-10-24 14:01:23,235 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject04_1.edf: No channels match the selection.
+2024-10-24 14:01:23,235 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject04_1.edf
+2024-10-24 14:01:23,244 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject22_2.edf
+2024-10-24 14:01:23,245 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject22_2.edf: No channels match the selection.
+2024-10-24 14:01:23,245 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject22_2.edf
+2024-10-24 14:01:23,255 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject06_1.edf
+2024-10-24 14:01:23,255 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject06_1.edf: No channels match the selection.
+2024-10-24 14:01:23,255 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject06_1.edf
+2024-10-24 14:01:23,263 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject20_2.edf
+2024-10-24 14:01:23,263 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject20_2.edf: No channels match the selection.
+2024-10-24 14:01:23,263 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject20_2.edf
+2024-10-24 14:01:23,272 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject22_1.edf
+2024-10-24 14:01:23,273 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject22_1.edf: No channels match the selection.
+2024-10-24 14:01:23,273 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject22_1.edf
+2024-10-24 14:01:23,279 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject04_2.edf
+2024-10-24 14:01:23,280 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject04_2.edf: No channels match the selection.
+2024-10-24 14:01:23,280 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject04_2.edf
+2024-10-24 14:01:23,289 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject26_1.edf
+2024-10-24 14:01:23,289 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject26_1.edf: No channels match the selection.
+2024-10-24 14:01:23,289 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject26_1.edf
+2024-10-24 14:01:23,294 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject00_2.edf
+2024-10-24 14:01:23,294 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject00_2.edf: No channels match the selection.
+2024-10-24 14:01:23,294 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject00_2.edf
+2024-10-24 14:01:23,299 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject19_2.edf
+2024-10-24 14:01:23,300 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject19_2.edf: No channels match the selection.
+2024-10-24 14:01:23,300 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject19_2.edf
+2024-10-24 14:01:23,309 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject02_1.edf
+2024-10-24 14:01:23,309 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject02_1.edf: No channels match the selection.
+2024-10-24 14:01:23,309 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject02_1.edf
+2024-10-24 14:01:23,314 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject24_2.edf
+2024-10-24 14:01:23,314 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject24_2.edf: No channels match the selection.
+2024-10-24 14:01:23,314 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject24_2.edf
+2024-10-24 14:01:23,324 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject00_1.edf
+2024-10-24 14:01:23,324 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject00_1.edf: No channels match the selection.
+2024-10-24 14:01:23,324 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject00_1.edf
+2024-10-24 14:01:23,329 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject26_2.edf
+2024-10-24 14:01:23,330 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject26_2.edf: No channels match the selection.
+2024-10-24 14:01:23,330 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject26_2.edf
+2024-10-24 14:01:23,339 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject19_1.edf
+2024-10-24 14:01:23,339 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject19_1.edf: No channels match the selection.
+2024-10-24 14:01:23,339 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject19_1.edf
+2024-10-24 14:01:23,349 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject24_1.edf
+2024-10-24 14:01:23,349 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject24_1.edf: No channels match the selection.
+2024-10-24 14:01:23,349 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject24_1.edf
+2024-10-24 14:01:23,356 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject02_2.edf
+2024-10-24 14:01:23,357 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject02_2.edf: No channels match the selection.
+2024-10-24 14:01:23,357 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject02_2.edf
+2024-10-24 14:01:23,366 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject07_1.edf
+2024-10-24 14:01:23,367 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject07_1.edf: No channels match the selection.
+2024-10-24 14:01:23,367 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject07_1.edf
+2024-10-24 14:01:23,372 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject21_2.edf
+2024-10-24 14:01:23,372 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject21_2.edf: No channels match the selection.
+2024-10-24 14:01:23,373 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject21_2.edf
+2024-10-24 14:01:23,382 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject23_1.edf
+2024-10-24 14:01:23,383 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject23_1.edf: No channels match the selection.
+2024-10-24 14:01:23,383 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject23_1.edf
+2024-10-24 14:01:23,387 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject05_2.edf
+2024-10-24 14:01:23,388 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject05_2.edf: No channels match the selection.
+2024-10-24 14:01:23,388 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject05_2.edf
+2024-10-24 14:01:23,397 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject21_1.edf
+2024-10-24 14:01:23,397 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject21_1.edf: No channels match the selection.
+2024-10-24 14:01:23,397 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject21_1.edf
+2024-10-24 14:01:23,402 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject07_2.edf
+2024-10-24 14:01:23,402 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject07_2.edf: No channels match the selection.
+2024-10-24 14:01:23,402 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject07_2.edf
+2024-10-24 14:01:23,411 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject05_1.edf
+2024-10-24 14:01:23,412 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject05_1.edf: No channels match the selection.
+2024-10-24 14:01:23,412 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject05_1.edf
+2024-10-24 14:01:23,417 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject23_2.edf
+2024-10-24 14:01:23,417 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject23_2.edf: No channels match the selection.
+2024-10-24 14:01:23,417 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject23_2.edf
+2024-10-24 14:01:23,426 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject01_1.edf
+2024-10-24 14:01:23,427 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject01_1.edf: No channels match the selection.
+2024-10-24 14:01:23,427 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject01_1.edf
+2024-10-24 14:01:23,432 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject27_2.edf
+2024-10-24 14:01:23,432 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject27_2.edf: No channels match the selection.
+2024-10-24 14:01:23,433 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject27_2.edf
+2024-10-24 14:01:23,442 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject25_1.edf
+2024-10-24 14:01:23,442 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject25_1.edf: No channels match the selection.
+2024-10-24 14:01:23,442 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject25_1.edf
+2024-10-24 14:01:23,447 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject03_2.edf
+2024-10-24 14:01:23,448 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject03_2.edf: No channels match the selection.
+2024-10-24 14:01:23,448 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject03_2.edf
+2024-10-24 14:01:23,457 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject18_1.edf
+2024-10-24 14:01:23,457 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject18_1.edf: No channels match the selection.
+2024-10-24 14:01:23,457 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject18_1.edf
+2024-10-24 14:01:23,466 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject27_1.edf
+2024-10-24 14:01:23,467 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject27_1.edf: No channels match the selection.
+2024-10-24 14:01:23,467 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject27_1.edf
+2024-10-24 14:01:23,471 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject01_2.edf
+2024-10-24 14:01:23,472 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject01_2.edf: No channels match the selection.
+2024-10-24 14:01:23,472 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject01_2.edf
+2024-10-24 14:01:23,481 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject03_1.edf
+2024-10-24 14:01:23,481 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject03_1.edf: No channels match the selection.
+2024-10-24 14:01:23,481 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject03_1.edf
+2024-10-24 14:01:23,486 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject25_2.edf
+2024-10-24 14:01:23,486 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject25_2.edf: No channels match the selection.
+2024-10-24 14:01:23,486 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject25_2.edf
+2024-10-24 14:01:23,491 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject18_2.edf
+2024-10-24 14:01:23,491 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject18_2.edf: No channels match the selection.
+2024-10-24 14:01:23,491 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject18_2.edf
+2024-10-24 14:01:23,496 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject14_2.edf
+2024-10-24 14:01:23,496 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject14_2.edf: No channels match the selection.
+2024-10-24 14:01:23,497 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject14_2.edf
+2024-10-24 14:01:23,506 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject32_1.edf
+2024-10-24 14:01:23,506 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject32_1.edf: No channels match the selection.
+2024-10-24 14:01:23,506 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject32_1.edf
+2024-10-24 14:01:23,511 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject29_2.edf
+2024-10-24 14:01:23,511 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject29_2.edf: No channels match the selection.
+2024-10-24 14:01:23,511 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject29_2.edf
+2024-10-24 14:01:23,517 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject30_2.edf
+2024-10-24 14:01:23,517 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject30_2.edf: No channels match the selection.
+2024-10-24 14:01:23,517 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject30_2.edf
+2024-10-24 14:01:23,527 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject16_1.edf
+2024-10-24 14:01:23,527 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject16_1.edf: No channels match the selection.
+2024-10-24 14:01:23,527 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject16_1.edf
+2024-10-24 14:01:23,533 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject32_2.edf
+2024-10-24 14:01:23,533 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject32_2.edf: No channels match the selection.
+2024-10-24 14:01:23,533 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject32_2.edf
+2024-10-24 14:01:23,543 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject14_1.edf
+2024-10-24 14:01:23,543 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject14_1.edf: No channels match the selection.
+2024-10-24 14:01:23,543 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject14_1.edf
+2024-10-24 14:01:23,553 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject29_1.edf
+2024-10-24 14:01:23,553 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject29_1.edf: No channels match the selection.
+2024-10-24 14:01:23,553 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject29_1.edf
+2024-10-24 14:01:23,558 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject16_2.edf
+2024-10-24 14:01:23,559 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject16_2.edf: No channels match the selection.
+2024-10-24 14:01:23,559 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject16_2.edf
+2024-10-24 14:01:23,567 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject30_1.edf
+2024-10-24 14:01:23,568 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject30_1.edf: No channels match the selection.
+2024-10-24 14:01:23,568 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject30_1.edf
+2024-10-24 14:01:23,577 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject09_1.edf
+2024-10-24 14:01:23,577 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject09_1.edf: No channels match the selection.
+2024-10-24 14:01:23,577 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject09_1.edf
+2024-10-24 14:01:23,582 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject12_2.edf
+2024-10-24 14:01:23,583 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject12_2.edf: No channels match the selection.
+2024-10-24 14:01:23,583 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject12_2.edf
+2024-10-24 14:01:23,592 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject34_1.edf
+2024-10-24 14:01:23,592 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject34_1.edf: No channels match the selection.
+2024-10-24 14:01:23,592 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject34_1.edf
+2024-10-24 14:01:23,607 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject10_1.edf
+2024-10-24 14:01:23,607 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject10_1.edf: No channels match the selection.
+2024-10-24 14:01:23,607 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject10_1.edf
+2024-10-24 14:01:23,612 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject09_2.edf
+2024-10-24 14:01:23,612 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject09_2.edf: No channels match the selection.
+2024-10-24 14:01:23,612 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject09_2.edf
+2024-10-24 14:01:23,617 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject34_2.edf
+2024-10-24 14:01:23,618 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject34_2.edf: No channels match the selection.
+2024-10-24 14:01:23,618 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject34_2.edf
+2024-10-24 14:01:23,627 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject12_1.edf
+2024-10-24 14:01:23,628 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject12_1.edf: No channels match the selection.
+2024-10-24 14:01:23,628 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject12_1.edf
+2024-10-24 14:01:23,633 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject10_2.edf
+2024-10-24 14:01:23,633 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject10_2.edf: No channels match the selection.
+2024-10-24 14:01:23,633 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject10_2.edf
+2024-10-24 14:01:23,643 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject28_1.edf
+2024-10-24 14:01:23,643 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject28_1.edf: No channels match the selection.
+2024-10-24 14:01:23,643 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject28_1.edf
+2024-10-24 14:01:23,649 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject33_2.edf
+2024-10-24 14:01:23,649 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject33_2.edf: No channels match the selection.
+2024-10-24 14:01:23,649 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject33_2.edf
+2024-10-24 14:01:23,659 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject15_1.edf
+2024-10-24 14:01:23,659 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject15_1.edf: No channels match the selection.
+2024-10-24 14:01:23,659 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject15_1.edf
+2024-10-24 14:01:23,664 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject17_2.edf
+2024-10-24 14:01:23,665 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject17_2.edf: No channels match the selection.
+2024-10-24 14:01:23,665 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject17_2.edf
+2024-10-24 14:01:23,672 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject31_1.edf
+2024-10-24 14:01:23,673 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject31_1.edf: No channels match the selection.
+2024-10-24 14:01:23,673 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject31_1.edf
+2024-10-24 14:01:23,678 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject28_2.edf
+2024-10-24 14:01:23,679 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject28_2.edf: No channels match the selection.
+2024-10-24 14:01:23,679 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject28_2.edf
+2024-10-24 14:01:23,686 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject15_2.edf
+2024-10-24 14:01:23,686 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject15_2.edf: No channels match the selection.
+2024-10-24 14:01:23,686 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject15_2.edf
+2024-10-24 14:01:23,695 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject33_1.edf
+2024-10-24 14:01:23,696 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject33_1.edf: No channels match the selection.
+2024-10-24 14:01:23,696 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject33_1.edf
+2024-10-24 14:01:23,700 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject31_2.edf
+2024-10-24 14:01:23,701 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject31_2.edf: No channels match the selection.
+2024-10-24 14:01:23,701 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject31_2.edf
+2024-10-24 14:01:23,710 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject17_1.edf
+2024-10-24 14:01:23,710 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject17_1.edf: No channels match the selection.
+2024-10-24 14:01:23,710 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject17_1.edf
+2024-10-24 14:01:23,715 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject35_2.edf
+2024-10-24 14:01:23,715 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject35_2.edf: No channels match the selection.
+2024-10-24 14:01:23,715 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject35_2.edf
+2024-10-24 14:01:23,724 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject13_1.edf
+2024-10-24 14:01:23,725 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject13_1.edf: No channels match the selection.
+2024-10-24 14:01:23,725 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject13_1.edf
+2024-10-24 14:01:23,730 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject08_2.edf
+2024-10-24 14:01:23,730 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject08_2.edf: No channels match the selection.
+2024-10-24 14:01:23,730 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject08_2.edf
+2024-10-24 14:01:23,735 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject11_2.edf
+2024-10-24 14:01:23,735 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject11_2.edf: No channels match the selection.
+2024-10-24 14:01:23,735 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject11_2.edf
+2024-10-24 14:01:23,740 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject13_2.edf
+2024-10-24 14:01:23,740 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject13_2.edf: No channels match the selection.
+2024-10-24 14:01:23,741 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject13_2.edf
+2024-10-24 14:01:23,750 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject35_1.edf
+2024-10-24 14:01:23,750 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject35_1.edf: No channels match the selection.
+2024-10-24 14:01:23,750 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject35_1.edf
+2024-10-24 14:01:23,759 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject08_1.edf
+2024-10-24 14:01:23,759 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject08_1.edf: No channels match the selection.
+2024-10-24 14:01:23,759 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject08_1.edf
+2024-10-24 14:01:23,768 - DEBUG - Loaded EDF file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject11_1.edf
+2024-10-24 14:01:23,769 - ERROR - Error selecting channels in datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject11_1.edf: No channels match the selection.
+2024-10-24 14:01:23,769 - WARNING - Feature extraction failed for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject11_1.edf
+2024-10-24 14:01:23,769 - ERROR - No features were extracted from any EDF files.
+2024-10-24 14:01:23,769 - ERROR - Feature extraction failed for all EDF files.
+2024-12-05 21:03:30,917 - INFO - Starting PhysioNet EEG Feature Extraction and Model Training
+2024-12-05 21:03:30,918 - INFO - MNE version: 1.8.0
+2024-12-05 21:03:30,918 - INFO - All required files are present in 'datasets/eeg-during-mental-arithmetic-tasks-1.0.0/'.
+2024-12-05 21:03:30,931 - INFO - Processing Subject00, Session 1
+2024-12-05 21:03:31,155 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject00_1.edf
+2024-12-05 21:03:31,156 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:31,213 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject00_1.edf
+2024-12-05 21:03:31,257 - INFO - Processing Subject00, Session 2
+2024-12-05 21:03:31,263 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject00_2.edf
+2024-12-05 21:03:31,264 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:31,276 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject00_2.edf
+2024-12-05 21:03:31,287 - INFO - Processing Subject01, Session 1
+2024-12-05 21:03:31,294 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject01_1.edf
+2024-12-05 21:03:31,295 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:31,316 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject01_1.edf
+2024-12-05 21:03:31,353 - INFO - Processing Subject01, Session 2
+2024-12-05 21:03:31,358 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject01_2.edf
+2024-12-05 21:03:31,358 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:31,371 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject01_2.edf
+2024-12-05 21:03:31,381 - INFO - Processing Subject02, Session 1
+2024-12-05 21:03:31,389 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject02_1.edf
+2024-12-05 21:03:31,390 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:31,413 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject02_1.edf
+2024-12-05 21:03:31,451 - INFO - Processing Subject02, Session 2
+2024-12-05 21:03:31,456 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject02_2.edf
+2024-12-05 21:03:31,456 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:31,470 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject02_2.edf
+2024-12-05 21:03:31,480 - INFO - Processing Subject03, Session 1
+2024-12-05 21:03:31,488 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject03_1.edf
+2024-12-05 21:03:31,489 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:31,511 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject03_1.edf
+2024-12-05 21:03:31,551 - INFO - Processing Subject03, Session 2
+2024-12-05 21:03:31,557 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject03_2.edf
+2024-12-05 21:03:31,558 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:31,574 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject03_2.edf
+2024-12-05 21:03:31,586 - INFO - Processing Subject04, Session 1
+2024-12-05 21:03:31,593 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject04_1.edf
+2024-12-05 21:03:31,594 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:31,619 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject04_1.edf
+2024-12-05 21:03:31,660 - INFO - Processing Subject04, Session 2
+2024-12-05 21:03:31,666 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject04_2.edf
+2024-12-05 21:03:31,666 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:31,683 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject04_2.edf
+2024-12-05 21:03:31,693 - INFO - Processing Subject05, Session 1
+2024-12-05 21:03:31,701 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject05_1.edf
+2024-12-05 21:03:31,701 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:31,723 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject05_1.edf
+2024-12-05 21:03:31,764 - INFO - Processing Subject05, Session 2
+2024-12-05 21:03:31,769 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject05_2.edf
+2024-12-05 21:03:31,770 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:31,786 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject05_2.edf
+2024-12-05 21:03:31,798 - INFO - Processing Subject06, Session 1
+2024-12-05 21:03:31,806 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject06_1.edf
+2024-12-05 21:03:31,806 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:31,832 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject06_1.edf
+2024-12-05 21:03:31,874 - INFO - Processing Subject06, Session 2
+2024-12-05 21:03:31,880 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject06_2.edf
+2024-12-05 21:03:31,880 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:31,894 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject06_2.edf
+2024-12-05 21:03:31,905 - INFO - Processing Subject07, Session 1
+2024-12-05 21:03:31,913 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject07_1.edf
+2024-12-05 21:03:31,913 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:31,940 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject07_1.edf
+2024-12-05 21:03:31,986 - INFO - Processing Subject07, Session 2
+2024-12-05 21:03:31,991 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject07_2.edf
+2024-12-05 21:03:31,992 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:32,007 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject07_2.edf
+2024-12-05 21:03:32,019 - INFO - Processing Subject08, Session 1
+2024-12-05 21:03:32,027 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject08_1.edf
+2024-12-05 21:03:32,028 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:32,056 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject08_1.edf
+2024-12-05 21:03:32,098 - INFO - Processing Subject08, Session 2
+2024-12-05 21:03:32,102 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject08_2.edf
+2024-12-05 21:03:32,103 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:32,117 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject08_2.edf
+2024-12-05 21:03:32,129 - INFO - Processing Subject09, Session 1
+2024-12-05 21:03:32,137 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject09_1.edf
+2024-12-05 21:03:32,137 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:32,165 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject09_1.edf
+2024-12-05 21:03:32,210 - INFO - Processing Subject09, Session 2
+2024-12-05 21:03:32,215 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject09_2.edf
+2024-12-05 21:03:32,215 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:32,231 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject09_2.edf
+2024-12-05 21:03:32,243 - INFO - Processing Subject10, Session 1
+2024-12-05 21:03:32,255 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject10_1.edf
+2024-12-05 21:03:32,256 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:32,281 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject10_1.edf
+2024-12-05 21:03:32,329 - INFO - Processing Subject10, Session 2
+2024-12-05 21:03:32,335 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject10_2.edf
+2024-12-05 21:03:32,335 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:32,350 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject10_2.edf
+2024-12-05 21:03:32,360 - INFO - Processing Subject11, Session 1
+2024-12-05 21:03:32,367 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject11_1.edf
+2024-12-05 21:03:32,367 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:32,390 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject11_1.edf
+2024-12-05 21:03:32,431 - INFO - Processing Subject11, Session 2
+2024-12-05 21:03:32,437 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject11_2.edf
+2024-12-05 21:03:32,437 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:32,451 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject11_2.edf
+2024-12-05 21:03:32,461 - INFO - Processing Subject12, Session 1
+2024-12-05 21:03:32,468 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject12_1.edf
+2024-12-05 21:03:32,469 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:32,495 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject12_1.edf
+2024-12-05 21:03:32,541 - INFO - Processing Subject12, Session 2
+2024-12-05 21:03:32,547 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject12_2.edf
+2024-12-05 21:03:32,547 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:32,561 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject12_2.edf
+2024-12-05 21:03:32,572 - INFO - Processing Subject13, Session 1
+2024-12-05 21:03:32,579 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject13_1.edf
+2024-12-05 21:03:32,579 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:32,605 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject13_1.edf
+2024-12-05 21:03:32,650 - INFO - Processing Subject13, Session 2
+2024-12-05 21:03:32,656 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject13_2.edf
+2024-12-05 21:03:32,656 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:32,672 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject13_2.edf
+2024-12-05 21:03:32,683 - INFO - Processing Subject14, Session 1
+2024-12-05 21:03:32,692 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject14_1.edf
+2024-12-05 21:03:32,692 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:32,718 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject14_1.edf
+2024-12-05 21:03:32,764 - INFO - Processing Subject14, Session 2
+2024-12-05 21:03:32,769 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject14_2.edf
+2024-12-05 21:03:32,769 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:32,785 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject14_2.edf
+2024-12-05 21:03:32,797 - INFO - Processing Subject15, Session 1
+2024-12-05 21:03:32,805 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject15_1.edf
+2024-12-05 21:03:32,806 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:32,832 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject15_1.edf
+2024-12-05 21:03:32,877 - INFO - Processing Subject15, Session 2
+2024-12-05 21:03:32,882 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject15_2.edf
+2024-12-05 21:03:32,883 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:32,899 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject15_2.edf
+2024-12-05 21:03:32,910 - INFO - Processing Subject16, Session 1
+2024-12-05 21:03:32,919 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject16_1.edf
+2024-12-05 21:03:32,919 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:32,945 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject16_1.edf
+2024-12-05 21:03:32,990 - INFO - Processing Subject16, Session 2
+2024-12-05 21:03:32,996 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject16_2.edf
+2024-12-05 21:03:32,996 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:33,027 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject16_2.edf
+2024-12-05 21:03:33,040 - INFO - Processing Subject17, Session 1
+2024-12-05 21:03:33,052 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject17_1.edf
+2024-12-05 21:03:33,053 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:33,082 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject17_1.edf
+2024-12-05 21:03:33,128 - INFO - Processing Subject17, Session 2
+2024-12-05 21:03:33,133 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject17_2.edf
+2024-12-05 21:03:33,133 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:33,150 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject17_2.edf
+2024-12-05 21:03:33,162 - INFO - Processing Subject18, Session 1
+2024-12-05 21:03:33,170 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject18_1.edf
+2024-12-05 21:03:33,171 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:33,197 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject18_1.edf
+2024-12-05 21:03:33,241 - INFO - Processing Subject18, Session 2
+2024-12-05 21:03:33,246 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject18_2.edf
+2024-12-05 21:03:33,247 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:33,262 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject18_2.edf
+2024-12-05 21:03:33,274 - INFO - Processing Subject19, Session 1
+2024-12-05 21:03:33,282 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject19_1.edf
+2024-12-05 21:03:33,282 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:33,309 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject19_1.edf
+2024-12-05 21:03:33,353 - INFO - Processing Subject19, Session 2
+2024-12-05 21:03:33,358 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject19_2.edf
+2024-12-05 21:03:33,359 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:33,375 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject19_2.edf
+2024-12-05 21:03:33,387 - INFO - Processing Subject20, Session 1
+2024-12-05 21:03:33,395 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject20_1.edf
+2024-12-05 21:03:33,396 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:33,423 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject20_1.edf
+2024-12-05 21:03:33,468 - INFO - Processing Subject20, Session 2
+2024-12-05 21:03:33,474 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject20_2.edf
+2024-12-05 21:03:33,474 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:33,490 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject20_2.edf
+2024-12-05 21:03:33,502 - INFO - Processing Subject21, Session 1
+2024-12-05 21:03:33,510 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject21_1.edf
+2024-12-05 21:03:33,511 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:33,538 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject21_1.edf
+2024-12-05 21:03:33,583 - INFO - Processing Subject21, Session 2
+2024-12-05 21:03:33,589 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject21_2.edf
+2024-12-05 21:03:33,590 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:33,605 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject21_2.edf
+2024-12-05 21:03:33,617 - INFO - Processing Subject22, Session 1
+2024-12-05 21:03:33,625 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject22_1.edf
+2024-12-05 21:03:33,625 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:33,650 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject22_1.edf
+2024-12-05 21:03:33,695 - INFO - Processing Subject22, Session 2
+2024-12-05 21:03:33,699 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject22_2.edf
+2024-12-05 21:03:33,700 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:33,716 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject22_2.edf
+2024-12-05 21:03:33,727 - INFO - Processing Subject23, Session 1
+2024-12-05 21:03:33,735 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject23_1.edf
+2024-12-05 21:03:33,736 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:33,763 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject23_1.edf
+2024-12-05 21:03:33,807 - INFO - Processing Subject23, Session 2
+2024-12-05 21:03:33,813 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject23_2.edf
+2024-12-05 21:03:33,814 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:33,830 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject23_2.edf
+2024-12-05 21:03:33,842 - INFO - Processing Subject24, Session 1
+2024-12-05 21:03:33,849 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject24_1.edf
+2024-12-05 21:03:33,850 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:33,876 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject24_1.edf
+2024-12-05 21:03:33,915 - INFO - Processing Subject24, Session 2
+2024-12-05 21:03:33,920 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject24_2.edf
+2024-12-05 21:03:33,920 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:33,934 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject24_2.edf
+2024-12-05 21:03:33,944 - INFO - Processing Subject25, Session 1
+2024-12-05 21:03:33,951 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject25_1.edf
+2024-12-05 21:03:33,951 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:33,974 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject25_1.edf
+2024-12-05 21:03:34,012 - INFO - Processing Subject25, Session 2
+2024-12-05 21:03:34,016 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject25_2.edf
+2024-12-05 21:03:34,016 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:34,029 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject25_2.edf
+2024-12-05 21:03:34,040 - INFO - Processing Subject26, Session 1
+2024-12-05 21:03:34,047 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject26_1.edf
+2024-12-05 21:03:34,047 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:34,070 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject26_1.edf
+2024-12-05 21:03:34,108 - INFO - Processing Subject26, Session 2
+2024-12-05 21:03:34,112 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject26_2.edf
+2024-12-05 21:03:34,113 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:34,127 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject26_2.edf
+2024-12-05 21:03:34,138 - INFO - Processing Subject27, Session 1
+2024-12-05 21:03:34,145 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject27_1.edf
+2024-12-05 21:03:34,146 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:34,168 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject27_1.edf
+2024-12-05 21:03:34,206 - INFO - Processing Subject27, Session 2
+2024-12-05 21:03:34,211 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject27_2.edf
+2024-12-05 21:03:34,211 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:34,227 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject27_2.edf
+2024-12-05 21:03:34,239 - INFO - Processing Subject28, Session 1
+2024-12-05 21:03:34,248 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject28_1.edf
+2024-12-05 21:03:34,248 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:34,272 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject28_1.edf
+2024-12-05 21:03:34,319 - INFO - Processing Subject28, Session 2
+2024-12-05 21:03:34,324 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject28_2.edf
+2024-12-05 21:03:34,324 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:34,340 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject28_2.edf
+2024-12-05 21:03:34,352 - INFO - Processing Subject29, Session 1
+2024-12-05 21:03:34,360 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject29_1.edf
+2024-12-05 21:03:34,360 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:34,385 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject29_1.edf
+2024-12-05 21:03:34,430 - INFO - Processing Subject29, Session 2
+2024-12-05 21:03:34,436 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject29_2.edf
+2024-12-05 21:03:34,436 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:34,452 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject29_2.edf
+2024-12-05 21:03:34,463 - INFO - Processing Subject30, Session 1
+2024-12-05 21:03:34,472 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject30_1.edf
+2024-12-05 21:03:34,472 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:34,500 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject30_1.edf
+2024-12-05 21:03:34,545 - INFO - Processing Subject30, Session 2
+2024-12-05 21:03:34,550 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject30_2.edf
+2024-12-05 21:03:34,550 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:34,565 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject30_2.edf
+2024-12-05 21:03:34,577 - INFO - Processing Subject31, Session 1
+2024-12-05 21:03:34,583 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject31_1.edf
+2024-12-05 21:03:34,583 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:34,600 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject31_1.edf
+2024-12-05 21:03:34,613 - INFO - Processing Subject31, Session 2
+2024-12-05 21:03:34,617 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject31_2.edf
+2024-12-05 21:03:34,618 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:34,632 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject31_2.edf
+2024-12-05 21:03:34,642 - INFO - Processing Subject32, Session 1
+2024-12-05 21:03:34,650 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject32_1.edf
+2024-12-05 21:03:34,650 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:34,676 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject32_1.edf
+2024-12-05 21:03:34,718 - INFO - Processing Subject32, Session 2
+2024-12-05 21:03:34,724 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject32_2.edf
+2024-12-05 21:03:34,725 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:34,741 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject32_2.edf
+2024-12-05 21:03:34,753 - INFO - Processing Subject33, Session 1
+2024-12-05 21:03:34,760 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject33_1.edf
+2024-12-05 21:03:34,760 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:34,786 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject33_1.edf
+2024-12-05 21:03:34,831 - INFO - Processing Subject33, Session 2
+2024-12-05 21:03:34,837 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject33_2.edf
+2024-12-05 21:03:34,838 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:34,853 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject33_2.edf
+2024-12-05 21:03:34,865 - INFO - Processing Subject34, Session 1
+2024-12-05 21:03:34,873 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject34_1.edf
+2024-12-05 21:03:34,873 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:34,899 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject34_1.edf
+2024-12-05 21:03:34,944 - INFO - Processing Subject34, Session 2
+2024-12-05 21:03:34,951 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject34_2.edf
+2024-12-05 21:03:34,952 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:34,968 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject34_2.edf
+2024-12-05 21:03:34,980 - INFO - Processing Subject35, Session 1
+2024-12-05 21:03:34,988 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject35_1.edf
+2024-12-05 21:03:34,988 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:35,017 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject35_1.edf
+2024-12-05 21:03:35,062 - INFO - Processing Subject35, Session 2
+2024-12-05 21:03:35,068 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject35_2.edf
+2024-12-05 21:03:35,069 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:03:35,085 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject35_2.edf
+2024-12-05 21:03:35,098 - INFO - Combined all subject data into a single DataFrame
+2024-12-05 21:03:35,099 - INFO - Data processing complete. Total samples: 4338
+2024-12-05 21:03:35,189 - INFO - Training model to predict Attention Levels
+2024-12-05 21:03:35,191 - INFO - Training set class distribution: Counter({1: 2577, 0: 893})
+2024-12-05 21:03:35,191 - INFO - scale_pos_weight: 2.89
+2024-12-05 21:03:35,191 - INFO - Feature selection with RFE.
+2024-12-05 21:03:37,593 - INFO - Selected features: ['EEG Fp1_Delta', 'EEG F7_Alpha', 'EEG Fp1_Beta', 'EEG Fp2_Beta', 'EEG F7_Beta', 'EEG F8_Beta', 'EEG Fp1_Activity', 'EEG Fp1_Mobility', 'EEG Fp1_Complexity', 'EEG Fp2_Activity', 'EEG Fp2_Mobility', 'EEG Fp2_Complexity', 'EEG F7_Activity', 'EEG F7_Mobility', 'EEG F8_Complexity']
+2024-12-05 21:03:37,595 - INFO - XGBoost hyperparameter tuning.
+2024-12-05 21:03:42,832 - INFO - Best XGBoost params: {'subsample': 0.8, 'n_estimators': 200, 'max_depth': 10, 'learning_rate': 0.2, 'colsample_bytree': 1.0}
+2024-12-05 21:03:47,044 - INFO - CV F1 scores: [0.71374361 0.76811702 0.78817404 0.77570036 0.73743475 0.75877209
+ 0.72553072 0.76019922 0.76748369 0.74897516], Mean: 0.7544
+2024-12-05 21:03:47,516 - INFO - Classification Report:
+2024-12-05 21:03:47,518 - INFO - 
+                precision    recall  f1-score   support
+
+High Attention       0.82      0.50      0.62       223
+ Low Attention       0.85      0.96      0.90       645
+
+      accuracy                           0.84       868
+     macro avg       0.83      0.73      0.76       868
+  weighted avg       0.84      0.84      0.83       868
+
+2024-12-05 21:03:47,754 - INFO - Feature Importances:
+               Feature  Importance
+10    EEG Fp2_Mobility    0.083380
+7     EEG Fp1_Mobility    0.077561
+8   EEG Fp1_Complexity    0.076187
+9     EEG Fp2_Activity    0.076094
+12     EEG F7_Activity    0.071971
+6     EEG Fp1_Activity    0.069912
+0        EEG Fp1_Delta    0.066821
+2         EEG Fp1_Beta    0.063648
+14   EEG F8_Complexity    0.063343
+5          EEG F8_Beta    0.061922
+3         EEG Fp2_Beta    0.060041
+4          EEG F7_Beta    0.058646
+1         EEG F7_Alpha    0.058533
+11  EEG Fp2_Complexity    0.057448
+13     EEG F7_Mobility    0.054494
+2024-12-05 21:03:47,875 - INFO - Saved attention model and artifacts.
+2024-12-05 21:03:47,876 - INFO - Training model to predict Performance Quality
+2024-12-05 21:03:47,877 - INFO - Training set class distribution: Counter({1: 2497, 0: 973})
+2024-12-05 21:03:47,877 - INFO - scale_pos_weight: 2.57
+2024-12-05 21:03:47,877 - INFO - Feature selection with RFE.
+2024-12-05 21:03:50,078 - INFO - Selected features: ['EEG Fp2_Delta', 'EEG F7_Delta', 'EEG Fp2_Theta', 'EEG Fp1_Alpha', 'EEG Fp1_Beta', 'EEG Fp2_Beta', 'EEG F7_Beta', 'EEG Fp1_Mobility', 'EEG Fp1_Complexity', 'EEG Fp2_Activity', 'EEG Fp2_Mobility', 'EEG Fp2_Complexity', 'EEG F7_Activity', 'EEG F7_Mobility', 'EEG F8_Activity']
+2024-12-05 21:03:50,080 - INFO - XGBoost hyperparameter tuning.
+2024-12-05 21:03:53,798 - INFO - Best XGBoost params: {'subsample': 0.8, 'n_estimators': 200, 'max_depth': 10, 'learning_rate': 0.2, 'colsample_bytree': 1.0}
+2024-12-05 21:03:58,021 - INFO - CV F1 scores: [0.80837552 0.81468941 0.8286035  0.8286035  0.74450069 0.83372125
+ 0.73195225 0.80680385 0.85747946 0.77452891], Mean: 0.8029
+2024-12-05 21:03:58,433 - INFO - Classification Report:
+2024-12-05 21:03:58,436 - INFO - 
+              precision    recall  f1-score   support
+
+ Bad Quality       0.85      0.65      0.74       244
+Good Quality       0.88      0.96      0.91       624
+
+    accuracy                           0.87       868
+   macro avg       0.86      0.80      0.83       868
+weighted avg       0.87      0.87      0.86       868
+
+2024-12-05 21:03:58,563 - INFO - Feature Importances:
+               Feature  Importance
+8   EEG Fp1_Complexity    0.087103
+11  EEG Fp2_Complexity    0.084792
+4         EEG Fp1_Beta    0.073407
+0        EEG Fp2_Delta    0.072065
+13     EEG F7_Mobility    0.071648
+5         EEG Fp2_Beta    0.068941
+12     EEG F7_Activity    0.065911
+9     EEG Fp2_Activity    0.064807
+14     EEG F8_Activity    0.064380
+3        EEG Fp1_Alpha    0.063418
+10    EEG Fp2_Mobility    0.062189
+6          EEG F7_Beta    0.058723
+2        EEG Fp2_Theta    0.058477
+1         EEG F7_Delta    0.053421
+7     EEG Fp1_Mobility    0.050720
+2024-12-05 21:03:58,683 - INFO - Saved quality model and artifacts.
+2024-12-05 21:26:15,797 - INFO - Starting PhysioNet EEG Feature Extraction and Model Training
+2024-12-05 21:26:15,798 - INFO - MNE version: 1.8.0
+2024-12-05 21:26:15,798 - INFO - All required files are present in 'datasets/eeg-during-mental-arithmetic-tasks-1.0.0/'.
+2024-12-05 21:26:15,819 - INFO - Processing Subject00, Session 1
+2024-12-05 21:26:16,118 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject00_1.edf
+2024-12-05 21:26:16,119 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:16,175 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject00_1.edf
+2024-12-05 21:26:16,216 - INFO - Processing Subject00, Session 2
+2024-12-05 21:26:16,221 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject00_2.edf
+2024-12-05 21:26:16,222 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:16,237 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject00_2.edf
+2024-12-05 21:26:16,248 - INFO - Processing Subject01, Session 1
+2024-12-05 21:26:16,255 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject01_1.edf
+2024-12-05 21:26:16,256 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:16,288 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject01_1.edf
+2024-12-05 21:26:16,337 - INFO - Processing Subject01, Session 2
+2024-12-05 21:26:16,342 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject01_2.edf
+2024-12-05 21:26:16,343 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:16,359 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject01_2.edf
+2024-12-05 21:26:16,371 - INFO - Processing Subject02, Session 1
+2024-12-05 21:26:16,380 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject02_1.edf
+2024-12-05 21:26:16,381 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:16,408 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject02_1.edf
+2024-12-05 21:26:16,454 - INFO - Processing Subject02, Session 2
+2024-12-05 21:26:16,460 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject02_2.edf
+2024-12-05 21:26:16,461 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:16,477 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject02_2.edf
+2024-12-05 21:26:16,490 - INFO - Processing Subject03, Session 1
+2024-12-05 21:26:16,498 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject03_1.edf
+2024-12-05 21:26:16,499 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:16,526 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject03_1.edf
+2024-12-05 21:26:16,571 - INFO - Processing Subject03, Session 2
+2024-12-05 21:26:16,578 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject03_2.edf
+2024-12-05 21:26:16,579 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:16,594 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject03_2.edf
+2024-12-05 21:26:16,607 - INFO - Processing Subject04, Session 1
+2024-12-05 21:26:16,614 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject04_1.edf
+2024-12-05 21:26:16,615 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:16,641 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject04_1.edf
+2024-12-05 21:26:16,684 - INFO - Processing Subject04, Session 2
+2024-12-05 21:26:16,689 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject04_2.edf
+2024-12-05 21:26:16,689 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:16,704 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject04_2.edf
+2024-12-05 21:26:16,714 - INFO - Processing Subject05, Session 1
+2024-12-05 21:26:16,721 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject05_1.edf
+2024-12-05 21:26:16,722 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:16,743 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject05_1.edf
+2024-12-05 21:26:16,781 - INFO - Processing Subject05, Session 2
+2024-12-05 21:26:16,786 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject05_2.edf
+2024-12-05 21:26:16,787 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:16,800 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject05_2.edf
+2024-12-05 21:26:16,810 - INFO - Processing Subject06, Session 1
+2024-12-05 21:26:16,818 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject06_1.edf
+2024-12-05 21:26:16,818 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:16,885 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject06_1.edf
+2024-12-05 21:26:16,942 - INFO - Processing Subject06, Session 2
+2024-12-05 21:26:16,948 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject06_2.edf
+2024-12-05 21:26:16,948 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:16,966 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject06_2.edf
+2024-12-05 21:26:16,979 - INFO - Processing Subject07, Session 1
+2024-12-05 21:26:16,988 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject07_1.edf
+2024-12-05 21:26:16,989 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:17,017 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject07_1.edf
+2024-12-05 21:26:17,068 - INFO - Processing Subject07, Session 2
+2024-12-05 21:26:17,074 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject07_2.edf
+2024-12-05 21:26:17,075 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:17,093 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject07_2.edf
+2024-12-05 21:26:17,106 - INFO - Processing Subject08, Session 1
+2024-12-05 21:26:17,115 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject08_1.edf
+2024-12-05 21:26:17,116 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:17,146 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject08_1.edf
+2024-12-05 21:26:17,191 - INFO - Processing Subject08, Session 2
+2024-12-05 21:26:17,197 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject08_2.edf
+2024-12-05 21:26:17,198 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:17,215 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject08_2.edf
+2024-12-05 21:26:17,227 - INFO - Processing Subject09, Session 1
+2024-12-05 21:26:17,235 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject09_1.edf
+2024-12-05 21:26:17,236 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:17,265 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject09_1.edf
+2024-12-05 21:26:17,312 - INFO - Processing Subject09, Session 2
+2024-12-05 21:26:17,319 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject09_2.edf
+2024-12-05 21:26:17,320 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:17,335 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject09_2.edf
+2024-12-05 21:26:17,347 - INFO - Processing Subject10, Session 1
+2024-12-05 21:26:17,358 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject10_1.edf
+2024-12-05 21:26:17,359 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:17,394 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject10_1.edf
+2024-12-05 21:26:17,442 - INFO - Processing Subject10, Session 2
+2024-12-05 21:26:17,449 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject10_2.edf
+2024-12-05 21:26:17,449 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:17,466 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject10_2.edf
+2024-12-05 21:26:17,479 - INFO - Processing Subject11, Session 1
+2024-12-05 21:26:17,487 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject11_1.edf
+2024-12-05 21:26:17,487 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:17,515 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject11_1.edf
+2024-12-05 21:26:17,566 - INFO - Processing Subject11, Session 2
+2024-12-05 21:26:17,572 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject11_2.edf
+2024-12-05 21:26:17,573 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:17,591 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject11_2.edf
+2024-12-05 21:26:17,604 - INFO - Processing Subject12, Session 1
+2024-12-05 21:26:17,613 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject12_1.edf
+2024-12-05 21:26:17,614 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:17,643 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject12_1.edf
+2024-12-05 21:26:17,691 - INFO - Processing Subject12, Session 2
+2024-12-05 21:26:17,697 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject12_2.edf
+2024-12-05 21:26:17,698 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:17,715 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject12_2.edf
+2024-12-05 21:26:17,727 - INFO - Processing Subject13, Session 1
+2024-12-05 21:26:17,735 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject13_1.edf
+2024-12-05 21:26:17,735 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:17,763 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject13_1.edf
+2024-12-05 21:26:17,813 - INFO - Processing Subject13, Session 2
+2024-12-05 21:26:17,818 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject13_2.edf
+2024-12-05 21:26:17,819 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:17,836 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject13_2.edf
+2024-12-05 21:26:17,848 - INFO - Processing Subject14, Session 1
+2024-12-05 21:26:17,856 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject14_1.edf
+2024-12-05 21:26:17,857 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:17,885 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject14_1.edf
+2024-12-05 21:26:17,932 - INFO - Processing Subject14, Session 2
+2024-12-05 21:26:17,939 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject14_2.edf
+2024-12-05 21:26:17,939 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:17,956 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject14_2.edf
+2024-12-05 21:26:17,969 - INFO - Processing Subject15, Session 1
+2024-12-05 21:26:17,977 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject15_1.edf
+2024-12-05 21:26:17,977 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:18,005 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject15_1.edf
+2024-12-05 21:26:18,051 - INFO - Processing Subject15, Session 2
+2024-12-05 21:26:18,057 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject15_2.edf
+2024-12-05 21:26:18,058 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:18,075 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject15_2.edf
+2024-12-05 21:26:18,086 - INFO - Processing Subject16, Session 1
+2024-12-05 21:26:18,095 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject16_1.edf
+2024-12-05 21:26:18,096 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:18,125 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject16_1.edf
+2024-12-05 21:26:18,171 - INFO - Processing Subject16, Session 2
+2024-12-05 21:26:18,177 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject16_2.edf
+2024-12-05 21:26:18,178 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:18,194 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject16_2.edf
+2024-12-05 21:26:18,206 - INFO - Processing Subject17, Session 1
+2024-12-05 21:26:18,214 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject17_1.edf
+2024-12-05 21:26:18,215 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:18,241 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject17_1.edf
+2024-12-05 21:26:18,286 - INFO - Processing Subject17, Session 2
+2024-12-05 21:26:18,292 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject17_2.edf
+2024-12-05 21:26:18,293 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:18,310 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject17_2.edf
+2024-12-05 21:26:18,322 - INFO - Processing Subject18, Session 1
+2024-12-05 21:26:18,330 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject18_1.edf
+2024-12-05 21:26:18,330 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:18,358 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject18_1.edf
+2024-12-05 21:26:18,404 - INFO - Processing Subject18, Session 2
+2024-12-05 21:26:18,410 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject18_2.edf
+2024-12-05 21:26:18,411 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:18,426 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject18_2.edf
+2024-12-05 21:26:18,439 - INFO - Processing Subject19, Session 1
+2024-12-05 21:26:18,447 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject19_1.edf
+2024-12-05 21:26:18,448 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:18,475 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject19_1.edf
+2024-12-05 21:26:18,520 - INFO - Processing Subject19, Session 2
+2024-12-05 21:26:18,526 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject19_2.edf
+2024-12-05 21:26:18,526 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:18,542 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject19_2.edf
+2024-12-05 21:26:18,555 - INFO - Processing Subject20, Session 1
+2024-12-05 21:26:18,563 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject20_1.edf
+2024-12-05 21:26:18,563 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:18,590 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject20_1.edf
+2024-12-05 21:26:18,636 - INFO - Processing Subject20, Session 2
+2024-12-05 21:26:18,644 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject20_2.edf
+2024-12-05 21:26:18,644 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:18,662 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject20_2.edf
+2024-12-05 21:26:18,675 - INFO - Processing Subject21, Session 1
+2024-12-05 21:26:18,682 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject21_1.edf
+2024-12-05 21:26:18,683 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:18,713 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject21_1.edf
+2024-12-05 21:26:18,759 - INFO - Processing Subject21, Session 2
+2024-12-05 21:26:18,764 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject21_2.edf
+2024-12-05 21:26:18,765 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:18,782 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject21_2.edf
+2024-12-05 21:26:18,793 - INFO - Processing Subject22, Session 1
+2024-12-05 21:26:18,802 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject22_1.edf
+2024-12-05 21:26:18,803 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:18,830 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject22_1.edf
+2024-12-05 21:26:18,876 - INFO - Processing Subject22, Session 2
+2024-12-05 21:26:18,882 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject22_2.edf
+2024-12-05 21:26:18,882 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:18,899 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject22_2.edf
+2024-12-05 21:26:18,910 - INFO - Processing Subject23, Session 1
+2024-12-05 21:26:18,918 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject23_1.edf
+2024-12-05 21:26:18,919 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:18,946 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject23_1.edf
+2024-12-05 21:26:18,995 - INFO - Processing Subject23, Session 2
+2024-12-05 21:26:19,001 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject23_2.edf
+2024-12-05 21:26:19,001 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:19,018 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject23_2.edf
+2024-12-05 21:26:19,030 - INFO - Processing Subject24, Session 1
+2024-12-05 21:26:19,038 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject24_1.edf
+2024-12-05 21:26:19,039 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:19,066 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject24_1.edf
+2024-12-05 21:26:19,111 - INFO - Processing Subject24, Session 2
+2024-12-05 21:26:19,117 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject24_2.edf
+2024-12-05 21:26:19,118 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:19,132 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject24_2.edf
+2024-12-05 21:26:19,144 - INFO - Processing Subject25, Session 1
+2024-12-05 21:26:19,152 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject25_1.edf
+2024-12-05 21:26:19,152 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:19,180 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject25_1.edf
+2024-12-05 21:26:19,219 - INFO - Processing Subject25, Session 2
+2024-12-05 21:26:19,224 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject25_2.edf
+2024-12-05 21:26:19,224 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:19,240 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject25_2.edf
+2024-12-05 21:26:19,252 - INFO - Processing Subject26, Session 1
+2024-12-05 21:26:19,260 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject26_1.edf
+2024-12-05 21:26:19,261 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:19,287 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject26_1.edf
+2024-12-05 21:26:19,331 - INFO - Processing Subject26, Session 2
+2024-12-05 21:26:19,337 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject26_2.edf
+2024-12-05 21:26:19,338 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:19,353 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject26_2.edf
+2024-12-05 21:26:19,365 - INFO - Processing Subject27, Session 1
+2024-12-05 21:26:19,373 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject27_1.edf
+2024-12-05 21:26:19,374 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:19,400 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject27_1.edf
+2024-12-05 21:26:19,438 - INFO - Processing Subject27, Session 2
+2024-12-05 21:26:19,442 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject27_2.edf
+2024-12-05 21:26:19,443 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:19,460 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject27_2.edf
+2024-12-05 21:26:19,471 - INFO - Processing Subject28, Session 1
+2024-12-05 21:26:19,480 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject28_1.edf
+2024-12-05 21:26:19,480 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:19,507 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject28_1.edf
+2024-12-05 21:26:19,552 - INFO - Processing Subject28, Session 2
+2024-12-05 21:26:19,558 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject28_2.edf
+2024-12-05 21:26:19,559 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:19,575 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject28_2.edf
+2024-12-05 21:26:19,586 - INFO - Processing Subject29, Session 1
+2024-12-05 21:26:19,593 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject29_1.edf
+2024-12-05 21:26:19,594 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:19,617 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject29_1.edf
+2024-12-05 21:26:19,658 - INFO - Processing Subject29, Session 2
+2024-12-05 21:26:19,664 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject29_2.edf
+2024-12-05 21:26:19,665 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:19,681 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject29_2.edf
+2024-12-05 21:26:19,693 - INFO - Processing Subject30, Session 1
+2024-12-05 21:26:19,700 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject30_1.edf
+2024-12-05 21:26:19,700 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:19,727 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject30_1.edf
+2024-12-05 21:26:19,768 - INFO - Processing Subject30, Session 2
+2024-12-05 21:26:19,772 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject30_2.edf
+2024-12-05 21:26:19,772 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:19,787 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject30_2.edf
+2024-12-05 21:26:19,796 - INFO - Processing Subject31, Session 1
+2024-12-05 21:26:19,802 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject31_1.edf
+2024-12-05 21:26:19,802 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:19,818 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject31_1.edf
+2024-12-05 21:26:19,833 - INFO - Processing Subject31, Session 2
+2024-12-05 21:26:19,838 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject31_2.edf
+2024-12-05 21:26:19,839 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:19,855 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject31_2.edf
+2024-12-05 21:26:19,866 - INFO - Processing Subject32, Session 1
+2024-12-05 21:26:19,874 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject32_1.edf
+2024-12-05 21:26:19,875 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:19,904 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject32_1.edf
+2024-12-05 21:26:19,947 - INFO - Processing Subject32, Session 2
+2024-12-05 21:26:19,954 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject32_2.edf
+2024-12-05 21:26:19,954 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:19,970 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject32_2.edf
+2024-12-05 21:26:19,982 - INFO - Processing Subject33, Session 1
+2024-12-05 21:26:19,990 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject33_1.edf
+2024-12-05 21:26:19,990 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:20,018 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject33_1.edf
+2024-12-05 21:26:20,062 - INFO - Processing Subject33, Session 2
+2024-12-05 21:26:20,068 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject33_2.edf
+2024-12-05 21:26:20,069 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:20,086 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject33_2.edf
+2024-12-05 21:26:20,099 - INFO - Processing Subject34, Session 1
+2024-12-05 21:26:20,106 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject34_1.edf
+2024-12-05 21:26:20,107 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:20,133 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject34_1.edf
+2024-12-05 21:26:20,173 - INFO - Processing Subject34, Session 2
+2024-12-05 21:26:20,177 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject34_2.edf
+2024-12-05 21:26:20,177 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:20,191 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject34_2.edf
+2024-12-05 21:26:20,203 - INFO - Processing Subject35, Session 1
+2024-12-05 21:26:20,210 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject35_1.edf
+2024-12-05 21:26:20,211 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:20,234 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject35_1.edf
+2024-12-05 21:26:20,270 - INFO - Processing Subject35, Session 2
+2024-12-05 21:26:20,275 - DEBUG - Loaded file: datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject35_2.edf
+2024-12-05 21:26:20,275 - DEBUG - Selected channels: ['EEG Fp1', 'EEG Fp2', 'EEG F7', 'EEG F8']
+2024-12-05 21:26:20,291 - DEBUG - Computed PSD for datasets/eeg-during-mental-arithmetic-tasks-1.0.0/Subject35_2.edf
+2024-12-05 21:26:20,303 - INFO - Combined all subject data into a single DataFrame
+2024-12-05 21:26:20,303 - INFO - Data processing complete. Total samples: 4338
+2024-12-05 21:26:20,382 - INFO - Training model to predict Attention Levels
+2024-12-05 21:26:20,385 - INFO - Training set class distribution: Counter({1: 2577, 0: 893})
+2024-12-05 21:26:20,385 - INFO - scale_pos_weight: 2.89
+2024-12-05 21:26:20,385 - INFO - Feature selection with RFE.
+2024-12-05 21:26:22,660 - INFO - Selected features: ['EEG Fp1_Delta', 'EEG F7_Alpha', 'EEG Fp1_Beta', 'EEG Fp2_Beta', 'EEG F7_Beta', 'EEG F8_Beta', 'EEG Fp1_Activity', 'EEG Fp1_Mobility', 'EEG Fp1_Complexity', 'EEG Fp2_Activity', 'EEG Fp2_Mobility', 'EEG Fp2_Complexity', 'EEG F7_Activity', 'EEG F7_Mobility', 'EEG F8_Complexity']
+2024-12-05 21:26:22,662 - INFO - XGBoost hyperparameter tuning.
+2024-12-05 21:26:27,951 - INFO - Best XGBoost params: {'subsample': 0.8, 'n_estimators': 200, 'max_depth': 10, 'learning_rate': 0.2, 'colsample_bytree': 1.0}
+2024-12-05 21:26:32,451 - INFO - CV F1 scores: [0.71374361 0.76811702 0.78817404 0.77570036 0.73743475 0.75877209
+ 0.72553072 0.76019922 0.76748369 0.74897516], Mean: 0.7544
+2024-12-05 21:26:32,932 - INFO - Classification Report:
+2024-12-05 21:26:32,935 - INFO - 
+                precision    recall  f1-score   support
+
+High Attention       0.82      0.50      0.62       223
+ Low Attention       0.85      0.96      0.90       645
+
+      accuracy                           0.84       868
+     macro avg       0.83      0.73      0.76       868
+  weighted avg       0.84      0.84      0.83       868
+
+2024-12-05 21:26:33,182 - INFO - Feature Importances:
+               Feature  Importance
+10    EEG Fp2_Mobility    0.083380
+7     EEG Fp1_Mobility    0.077561
+8   EEG Fp1_Complexity    0.076187
+9     EEG Fp2_Activity    0.076094
+12     EEG F7_Activity    0.071971
+6     EEG Fp1_Activity    0.069912
+0        EEG Fp1_Delta    0.066821
+2         EEG Fp1_Beta    0.063648
+14   EEG F8_Complexity    0.063343
+5          EEG F8_Beta    0.061922
+3         EEG Fp2_Beta    0.060041
+4          EEG F7_Beta    0.058646
+1         EEG F7_Alpha    0.058533
+11  EEG Fp2_Complexity    0.057448
+13     EEG F7_Mobility    0.054494
+2024-12-05 21:26:33,303 - INFO - Saved attention model and artifacts.
+2024-12-05 21:26:33,303 - INFO - Training model to predict Performance Quality
+2024-12-05 21:26:33,305 - INFO - Training set class distribution: Counter({1: 2497, 0: 973})
+2024-12-05 21:26:33,305 - INFO - scale_pos_weight: 2.57
+2024-12-05 21:26:33,305 - INFO - Feature selection with RFE.
+2024-12-05 21:26:35,638 - INFO - Selected features: ['EEG Fp2_Delta', 'EEG F7_Delta', 'EEG Fp2_Theta', 'EEG Fp1_Alpha', 'EEG Fp1_Beta', 'EEG Fp2_Beta', 'EEG F7_Beta', 'EEG Fp1_Mobility', 'EEG Fp1_Complexity', 'EEG Fp2_Activity', 'EEG Fp2_Mobility', 'EEG Fp2_Complexity', 'EEG F7_Activity', 'EEG F7_Mobility', 'EEG F8_Activity']
+2024-12-05 21:26:35,641 - INFO - XGBoost hyperparameter tuning.
+2024-12-05 21:26:39,465 - INFO - Best XGBoost params: {'subsample': 0.8, 'n_estimators': 200, 'max_depth': 10, 'learning_rate': 0.2, 'colsample_bytree': 1.0}
+2024-12-05 21:26:43,471 - INFO - CV F1 scores: [0.80837552 0.81468941 0.8286035  0.8286035  0.74450069 0.83372125
+ 0.73195225 0.80680385 0.85747946 0.77452891], Mean: 0.8029
+2024-12-05 21:26:43,871 - INFO - Classification Report:
+2024-12-05 21:26:43,874 - INFO - 
+              precision    recall  f1-score   support
+
+ Bad Quality       0.85      0.65      0.74       244
+Good Quality       0.88      0.96      0.91       624
+
+    accuracy                           0.87       868
+   macro avg       0.86      0.80      0.83       868
+weighted avg       0.87      0.87      0.86       868
+
+2024-12-05 21:26:44,000 - INFO - Feature Importances:
+               Feature  Importance
+8   EEG Fp1_Complexity    0.087103
+11  EEG Fp2_Complexity    0.084792
+4         EEG Fp1_Beta    0.073407
+0        EEG Fp2_Delta    0.072065
+13     EEG F7_Mobility    0.071648
+5         EEG Fp2_Beta    0.068941
+12     EEG F7_Activity    0.065911
+9     EEG Fp2_Activity    0.064807
+14     EEG F8_Activity    0.064380
+3        EEG Fp1_Alpha    0.063418
+10    EEG Fp2_Mobility    0.062189
+6          EEG F7_Beta    0.058723
+2        EEG Fp2_Theta    0.058477
+1         EEG F7_Delta    0.053421
+7     EEG Fp1_Mobility    0.050720
+2024-12-05 21:26:44,122 - INFO - Saved quality model and artifacts.
