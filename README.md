@@ -3,8 +3,8 @@
 This project includes three main scripts for processing EEG data and analyzing audio stimuli:
 
 - **`analyze_stimuli.py`**: Extracts musical features (tempo, key, spectral properties, MFCCs, chroma) from audio stimuli.
-- **`process_madeeg.py`**: Processes EEG data from the MAD-EEG dataset, integrates behavioral and musical features, and generates a comprehensive CSV file with attention labels.
-- **`process_physionet.py`**: Processes PhysioNet EEG data recorded during mental arithmetic tasks, extracts features, and trains a predictive model for attention and performance quality.
+- **`process_madeeg.py`**: Processes EEG data from the MAD-EEG dataset, integrates behavioral and musical features, and generates a comprehensive CSV file with attention labels. 
+- **`process_physionet.py`**: Processes PhysioNet EEG data recorded during mental arithmetic tasks, extracts features, and trains a predictive model for attention and performance quality. Creates visualizations and pkl files for the machine learning models.
 
 To use this program, clone the repository. Navigate to project directory. 
 
