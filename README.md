@@ -16,11 +16,12 @@ Install the required packages:
 
 Before running the scripts, you need to download the correct datasets and place them into the right folders. 
 
-In datasets, download these two files.
+In 'music_research/datasets', download these two files.
+
 https://zenodo.org/records/4537751#.YS5MOI4zYuU:~:text=madeeg_preprocessed.hdf5
 
 https://zenodo.org/records/4537751#.YS5MOI4zYuU:~:text=madeeg_preprocessed.yaml
 
-In datasets/eeg-during-mental-arithmetic-tasks-1.0.0, download and place contents of this data: https://physionet.org/content/eegmat/1.0.0/#:~:text=Download%20the%20ZIP%20file
+In '/datasets/eeg-during-mental-arithmetic-tasks-1.0.0', download and place contents of this data: https://physionet.org/content/eegmat/1.0.0/#:~:text=Download%20the%20ZIP%20file
 
-In datasets/stimuli, download and place contents of these stimuli: https://zenodo.org/records/4537751#.YS5MOI4zYuU:~:text=Files-,stimuli,-.zip
+In '/datasets/stimuli', download and place contents of these stimuli: https://zenodo.org/records/4537751#.YS5MOI4zYuU:~:text=Files-,stimuli,-.zip
