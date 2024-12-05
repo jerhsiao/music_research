@@ -253,7 +253,7 @@ def main():
                  f'Unattended: {np.mean(all_unattended):.3f}±{np.std(all_unattended):.3f}\n' +
                  f'p = {p_value:.3e}, Cohen\'s d = {d:.3f}', y=0.95)
     # Save and show
-    plt.savefig('attention_decoding_results.png', dpi=300, bbox_inches='tight')
+    plt.savefig('/outputs/visualizations/attention_decoding_results.png', dpi=300, bbox_inches='tight')
     plt.show()
 
 if __name__ == "__main__":
