@@ -16,7 +16,7 @@ Install the required packages:
 
 Before running the scripts, you need to download the correct datasets and place them into the right folders. 
 
-In 'music_research/datasets', download these two files.
+Download and place these two files in 'music_research/datasets'
 
 https://zenodo.org/records/4537751#.YS5MOI4zYuU:~:text=madeeg_preprocessed.hdf5
 
