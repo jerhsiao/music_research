@@ -13,7 +13,6 @@ import ast
 import re
 from tqdm import tqdm
 
-# Expected columns from user's specification
 EXPECTED_COLUMNS = [
     'F1_Delta','F2_Delta','F3_Delta','F4_Delta',
     'F1_Theta','F2_Theta','F3_Theta','F4_Theta',
