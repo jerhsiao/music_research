@@ -14,11 +14,17 @@ The `MusicAttentionDecoder` class implements a backward temporal response functi
 
 ## Datasets used:
 
-PhysioNet's "EEG During Mental Arithmetic Tasks"
+### MAD-EEG Dataset
+[MAD-EEG: an EEG dataset for decoding auditory attention to a target instrument in polyphonic music](https://zenodo.org/records/4537751#.YS5MOI4zYuU)
+- EEG data from subjects listening to polyphonic music
+- Focus on auditory attention decoding
+- Used to validate our attention decoding approach
 
-“MAD-EEG: an EEG dataset for decoding auditory attention to a target instrument in polyphonic music”.  Link to Dataset
-
-
+### PhysioNet Mental Arithmetic Dataset  
+[EEG During Mental Arithmetic Tasks](https://physionet.org/content/eegmat/1.0.0/)
+- EEG recordings during arithmetic problem solving
+- Provides baseline cognitive task data
+- Used to understand EEG patterns during analytical tasks
 
 To use this program, clone the repository. Navigate to project directory. 
 
